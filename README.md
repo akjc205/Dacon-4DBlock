@@ -6,7 +6,7 @@
 
 대회 링크 : https://dacon.io/competitions/official/236046/overview/description
 
-# 본 경진 대회에서 사용했던 코드이며, 리더보드 결과 Accuracy: Public 0.941 Private 0.937입니다.   
+본 경진 대회에서 사용했던 코드이며, 리더보드 결과 Accuracy: Public 0.941 Private 0.937입니다.   
 
 ## 파일 구조
 1. Data Generation.ipynb : 새로운 배경을 가져와 합성하는 코드
